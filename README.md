@@ -62,9 +62,6 @@ asyncio.run(main())
 
 - Extend `planner_agent`, `writer_agent`, or `search_and_summarize` in their respective files to customize planning, writing, or search logic.
 
-## License
-
-MIT License
 
 ---
 
